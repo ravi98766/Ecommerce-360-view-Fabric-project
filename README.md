@@ -1,4 +1,4 @@
-***ECOMMERCE-360-DEGREE-VIEW-FABRIC-PROJECT***                                                     
+***ECOMMERCE-360-DEGREE-VIEW-FABRIC-PROJECT***                                                   
 
 ***DATAPIPELINE***
 
